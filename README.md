@@ -1,8 +1,10 @@
 # DIKWP OriginMoat OS
 
-**DIKWP OriginMoat OS** is a GitHub-ready open-source strategic release system for the DIKWP ecosystem. It helps an original creator publish useful open-source work while preserving attribution, official certification value, partner routes, training value, registry value, and commercial opportunity.
+Created by Yucong Duan (段玉聪).
 
-It is not a DRM system and does not prevent lawful open-source reuse. Instead, it turns every project into an auditable **Origin Capsule** and a strategic **Open-Core / Official-Service / Certification / Partner** map.
+DIKWP OriginMoat OS is a GitHub-ready open-source strategic release system for the DIKWP ecosystem. It helps an original creator publish useful open-source work while preserving attribution, official certification value, partner routes, training value, registry value, and commercial opportunity.
+
+It is not a DRM system and does not prevent lawful open-source reuse. Instead, it turns every project into an auditable Origin Capsule and a strategic Open-Core / Official-Service / Certification / Partner map.
 
 ## Core idea
 
